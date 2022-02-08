@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pole", "pole\pole.csproj", "{471BE228-C221-423E-9312-A51CE5B1E085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{471BE228-C221-423E-9312-A51CE5B1E085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471BE228-C221-423E-9312-A51CE5B1E085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471BE228-C221-423E-9312-A51CE5B1E085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471BE228-C221-423E-9312-A51CE5B1E085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {505A5007-AC3E-4608-9516-82EF68FB5626}
+	EndGlobalSection
+EndGlobal

@@ -44,12 +44,14 @@ namespace pole
             }
             
                     
-            txtvypis.Text = "";
-            for(int i = 0; i <pole.Length; i++)
-            {
-                txtvypis.Text += pole[i].ToString() + "; ";
-            }
+            //txtvypis.Text = "";
+            //for(int i = 0; i <pole.Length; i++)
+            //{
+            //    txtvypis.Text += pole[i].ToString() + "; ";    //Odstraňu je ; na konci.
+            //}
+            //txtvypis.Text += pole[99].ToString();
 
+            txtvypis.Text = string.Join("; ", pole);       //Kratší verze.
         }
     }
 }
